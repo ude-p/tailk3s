@@ -1,4 +1,6 @@
-![tailk3s](assets/tailk3s.jpg)
+<p align="center">
+  <img alt="tailk3s" src="assets/tailk3s.jpg" width="400">
+</p>
 
 # tailk3s
 
