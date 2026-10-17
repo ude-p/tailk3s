@@ -1,0 +1,5 @@
+drafts/
+justfile
+.tsnet/
+.DS_Store
+dev.hcl
